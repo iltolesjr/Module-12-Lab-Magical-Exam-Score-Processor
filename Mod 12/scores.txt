@@ -1,0 +1,4 @@
+Harry Potter, 78
+Hermione Granger, 98
+Ron Weasley, 72
+Draco Malfoy, 85

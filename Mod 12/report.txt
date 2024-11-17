@@ -1,0 +1,9 @@
+Transfiguration O.W.L. Results
+=============================
+
+Harry Potter: 78
+Hermione Granger: 98
+Ron Weasley: 72
+Draco Malfoy: 85
+
+Class Average: 83.25
